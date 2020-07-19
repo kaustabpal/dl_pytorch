@@ -1,2 +1,4 @@
 # dl_pytorch
-Collection of codes I wrote while learning to use the pytorch library
+
+Reference notes from the book [Deep Learning with Pytorch](https://pytorch.org/deep-learning-with-pytorch)
+
